@@ -7,4 +7,6 @@ class User extends CI_Controller {
         echo 'Selamat datang ' . $data['user']['name'];
     }
 
+
+
 }
